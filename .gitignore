@@ -17,3 +17,4 @@ __pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
+data/All_Beauty.json.gz
